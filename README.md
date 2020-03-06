@@ -12,4 +12,4 @@ pip install -r requirements.txt
 Download the [`chromedriver` ](https://chromedriver.chromium.org/downloads) that matches your Chrome browser version. This may need to be updated whenever you update Chrome.
 
 ### Executable File for Windows
-First, ensure you place ```chromedriver.exe``` inside: ```C:/webdrivers``` path. Then, download and run [```stocks_scraper.exe```](https://drive.google.com/open?id=1Y5uhtN4O3jiN65ZMXOtpt47lfaeboeG_). The generated Excel sheets will be saved in the same directory of the executable file.
+First, ensure you place ```chromedriver.exe``` inside: ```C:/webdrivers``` path. Then, download and unzip [```stocks_scraper.zip```](https://drive.google.com/open?id=1DKqmhe_eq_i7rxcloq218ps1N3BKNWuH). The generated Excel sheets will be saved in the same directory of the executable file```stocks_scraper.exe```.
